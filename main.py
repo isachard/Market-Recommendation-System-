@@ -1,10 +1,7 @@
 #! /usr/bin/env python3
 #--------------------------------#
 #__author__ = "Isachard Rodriguez"
-#__version__ = "1.0.1"
-#__maintainer__ = "Rob Knight"
 #__email__ = "isachard@uoregon.edu"
-#__status__ = "Pre - Alpha"
 #__Version__ = "1.0.0"
 #__Python Version: "3.4x"
 #__date__ = "9-1-2017"

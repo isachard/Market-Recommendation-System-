@@ -1,0 +1,3 @@
+*check api call for mlb network
+*call specific match? how?
+* 15 minutes 15 calls, plus alg average runs
